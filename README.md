@@ -6,10 +6,10 @@ While I was working on additional patches through [my fork](https://github.com/A
 ## Features
 - Patch for [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/index.php?/topic/59009-1) that switches the *Intelligence Sat* and *Soil Moisture* parts to be a `DIRECT` antenna rather than a `RELAY`
 - Patch for [Kerbal Inventory System](https://github.com/ihsoft/KIS) that switches the `mediumCargoContainer` to use [Restock](https://github.com/PorktoberRevolution/ReStocked)'s model and its variants 
+- Patch for ['Project Orion' Nuclear Pulse Engine](https://forum.kerbalspaceprogram.com/index.php?/topic/121597-*) that assigns correct bulkhead profiles for its parts
 - Patch for [SCANsat](https://github.com/S-C-A-N/SCANsat) that raises the max height the *Been There Done That* can be used to 5000
 - Patch for [USI Exploration Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/78242-*) that makes the *Safety Light* work and appear in the VAB/SPH
 - Patch for [USI Kolonization Systems](https://forum.kerbalspaceprogram.com/index.php?/topic/154587-*) that adds the *'Ranger' Battery Pack* and *'Ranger' Thermal Control System* to the USI Kolonization category
-- Patch for ['Project Orion' Nuclear Pulse Engine](https://forum.kerbalspaceprogram.com/index.php?/topic/121597-*) that assigns correct bulkhead profiles for its parts
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) patch for [Kerbal Attachment System](https://github.com/ihsoft/KAS) with additional reorganization
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) patch for [Kerbal Inventory System](https://github.com/ihsoft/KIS) with additional reorganization
 - [zTheme](https://forum.kerbalspaceprogram.com/index.php?/topic/217396-ztheme/) NavBall_bg with solid fill as seen below
