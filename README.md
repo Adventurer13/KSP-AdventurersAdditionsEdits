@@ -14,7 +14,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) patch for [Kerbal Inventory System](https://github.com/ihsoft/KIS) with additional reorganization
 - [zTheme](https://forum.kerbalspaceprogram.com/index.php?/topic/217396-ztheme/) NavBall_bg with solid fill as seen below
 
-![NavBall_BG_Baked_Solid](/GameData/zz_AdventurersAdditionsEdits/ZTheme/PluginData/flight/NavBall_BG_Baked.png)
+![NavBall_BG_Baked_Solid](</Source/ZTheme/PluginData/flight/Replacement Textures/NavBall_BG_Baked.png>)
 
 ---
 ## For Creators of KSP Mods
