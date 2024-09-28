@@ -68,10 +68,10 @@ While I was working on additional patches through [my fork](https://github.com/A
 ### [SCANsat](https://github.com/S-C-A-N/SCANsat)
 - Raises the max altitude the *Been There Done That* can be used to 5000 from 2000.
 
-### [Sterling Electrics]()
+### [Sterling Electrics](https://github.com/JadeOfMaar/SterlingSystems)
 - Modifies battery capacities to comparable amounts in Restock+/stock KSP.
 
-### [Sterling Thermals}()
+### [Sterling Thermals](https://github.com/JadeOfMaar/SterlingSystems)
 - Modifies `bulkheadProfiles` of a few parts to a more appropriate size.
 - Minor edit to names of sub-100m sized *Film Radiators* for better alphanumeric sorting.
 
