@@ -19,6 +19,10 @@ While I was working on additional patches through [my fork](https://github.com/A
 ### [Global Construction (aka Ground Construction)](https://github.com/allista/GroundConstruction)
 - Modifies `bulkheadProfiles` of the *Orbital Assembly Line*, *Orbital Workshop*, and *Inline Workshop* to a more appropiate size.
 
+### [Heat Control](https://github.com/post-kerbin-mining-corporation/HeatControl) and [System Heat](https://github.com/post-kerbin-mining-corporation/SystemHeat)
+- Fixes VAB Organizer subcategory assignment for *System Heat* parts.
+- When using [VAB Organizer - Jade](https://github.com/JadeOfMaar/VABOrganizer-Jade), assigns parts to renamed **Heat Exchangers** subcategory from Heat Sinks.
+
 ### [JX2Antenna](https://github.com/KSPSnark/JX2Antenna)
 - Modifies `bulkheadProfiles` of the *JU1 Medium Deployable Antenna* to a more appropiate size.
 
