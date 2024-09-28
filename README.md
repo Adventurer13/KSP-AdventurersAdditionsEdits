@@ -68,6 +68,13 @@ While I was working on additional patches through [my fork](https://github.com/A
 ### [SCANsat](https://github.com/S-C-A-N/SCANsat)
 - Raises the max altitude the *Been There Done That* can be used to 5000 from 2000.
 
+### [Sterling Electrics]()
+- Modifies battery capacities to comparable amounts in Restock+/stock KSP.
+
+### [Sterling Thermals}()
+- Modifies `bulkheadProfiles` of a few parts to a more appropriate size.
+- Minor edit to names of sub-100m sized *Film Radiators* for better alphanumeric sorting.
+
 ### [Stockalike Station Parts Expansion Redux](https://github.com/ChrisAdderley/StationPartsExpansionRedux)
 - Modifies `bulkheadProfiles` of a few parts to better sizes.
 - Switches the category for the *Extensible Stairway* to "**Utility**" to be with the telescopic vertical stairs instead of "Ground".
