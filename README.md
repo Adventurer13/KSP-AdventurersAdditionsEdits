@@ -113,10 +113,10 @@ While I was working on additional patches through [my fork](https://github.com/A
 ### [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer)
 - Renames **Nosecones** to **Nose & Tail Cones**, which the KSP (Squad) patch uses to assign the *Tail Connectors*.
 - Adds VAB Organizer bulkhead tags for 
-  - [**11m**] (`size11m`) — used by USI Core patch
-  - [**15m**] (`size15m`) — used by USI Core and USI Kolonization Systems patches
-  - [**20m**] (`size20m`) — used by USI Kolonization Systems patch
-  - [**30m**] (`size30m`) — not used here, but added anyway
+  - [**11m**] (`size8p8`) — used by USI Core patch
+  - [**15m**] (`size12`) — used by USI Core and USI Kolonization Systems patches
+  - [**20m**] (`size16`) — used by USI Kolonization Systems patch
+  - [**30m**] (`size24`) — not used here, but added anyway
 
 ### [zTheme](https://github.com/zapSNH/ZTheme)
 - Replaces NavBall_BG_Baked with a solid fill for the red- and green-colored parts as seen below:  
