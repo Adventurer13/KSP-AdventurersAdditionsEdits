@@ -5,11 +5,6 @@ While I was working on additional patches through [my fork](https://github.com/A
 
 ## Features  
   
-### [Modular Computer Package Revived (aka ChromaWorks)](https://github.com/linuxgurugamer/ChromaWorks)
-- Switches the category for a few parts to a different category based on its purpose.
-- Hides a couple of deprecated parts (for SCANSat and Kerbal Engineer) from showing.
-- Adds a VAB Organizer configuration and [**PCB**] bulkhead tag for the circuit boards.
-
 ### [Cryo Tanks](https://github.com/post-kerbin-mining-corporation/CryoTanks)
 - Adds the `bulkheadProfile` for 10m to the 10m-sized hydrogen tank part.
 
@@ -28,6 +23,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 
 ### [Kerbal Actuators](https://github.com/Angel-125/KerbalActuators)
 - Adds `bulkheadProfiles` to its parts based upon its size when folded.
+- Switches the category for its parts to "**Robotics**" from "Utility".
 
 ### [Kerbal Attachment System (aka KAS)](https://github.com/ihsoft/KAS)
 - Modifies `bulkheadProfiles` of a few parts to a more appropriate size.
@@ -58,6 +54,11 @@ While I was working on additional patches through [my fork](https://github.com/A
 
 ### [Konstruction (includes Akita and Konstruction)](https://github.com/UmbraSpaceIndustries/Konstruction)
 - Modifies `bulkheadProfiles` of a few parts in *Akita* and *Konstruction* to a better size.
+
+### [Modular Computer Package Revived (aka ChromaWorks)](https://github.com/linuxgurugamer/ChromaWorks)
+- Switches the category for a few parts to a different category based on its purpose.
+- Hides a couple of deprecated parts (for SCANSat and Kerbal Engineer) from showing.
+- Adds a VAB Organizer configuration and [**PCB**] bulkhead tag for the circuit boards.
 
 ### [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles)
 - Switches the category for the engine mounts containing fuel to use the "**Fuel Tanks**" category instead of "Structural".
