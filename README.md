@@ -22,7 +22,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 - Modifies `bulkheadProfiles` of the *JU1 Medium Deployable Antenna* to a more appropiate size.
 
 ### [Kerbal Actuators](https://github.com/Angel-125/KerbalActuators)
-- Adds `bulkheadProfiles` to its parts based upon its size when folded.
+- Adds `bulkheadProfiles` to its parts.
 - Switches the category for its parts to "**Robotics**" from "Utility".
 
 ### [Kerbal Attachment System (aka KAS)](https://github.com/ihsoft/KAS)
