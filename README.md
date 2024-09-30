@@ -6,7 +6,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 ## Features  
   
 ### [Cryo Tanks](https://github.com/post-kerbin-mining-corporation/CryoTanks)
-- Adds the `bulkheadProfile` for 10m to the 10m-sized hydrogen tank part.
+- Adds the `bulkheadProfile` for 10m to the 10m-sized hydrogen tank part. Optional alternatives.
 
 ### [DMagic Orbital Science](https://github.com/DMagic1/Orbital-Science)
 - Switches the *Intelligence Sat* and *Soil Moisture* parts to be a `DIRECT` antenna rather than act as a `RELAY`.
@@ -89,14 +89,14 @@ While I was working on additional patches through [my fork](https://github.com/A
 - Modifies `bulkheadProfiles` of a few parts to a more appropriate size.
 
 ### [Umbra Space Industries (USI) Core (includes Kontainers and ReactorPack)](https://github.com/UmbraSpaceIndustries/USI_Core)
-- Adds and modifies `bulkheadProfiles` of some of its parts to a better size.
+- Adds and modifies `bulkheadProfiles` of some of its parts to a better size. Optional alternatives for spherical tanks.
 
 ### [USI Exploration Pack (includes ExpPack, SrvPack, and SubPack)](https://github.com/UmbraSpaceIndustries/ExplorationPack)
 - Fixes the *Safety Light* model directory, so it appears in the VAB/SPH.
 - Modifies `bulkheadProfiles` of some parts in *ExpPack/PackRat* and *SubPack* to better sizes.
 - Adds surface attach capability to more parts in *ExpPack/PackRat*.
 - Switches the category for the *Storage Box* in *SrvPack* to "**Cargo**" from "Utility".
-- Switches the category for *ExpPack/PackRat* parts to various appropriate categories than only "Utility". Optional patch to remove it from default categories altogether and solely use [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit)'s "**Rovers**" category instead similar to other USI-mods added rover (Akita and Karibou) parts.
+- Switches the category for *ExpPack/PackRat* parts to various appropriate categories than only "Utility". If using [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit), remove them from default categories altogether and uses "**Rovers**" category instead similar to other USI-mods added rover (Akita and Karibou) parts.
 - Adds a VAB Organizer **Bouyancy** subcategory and renames **Parachutes** to **Airbags & Parachutes**. A few parts within *SrvPack* and *SubPack* are assigned where appropriate to these subcategories.
 
 ### [USI Freight Transport Technologies (FTT)](https://github.com/UmbraSpaceIndustries/FTT)
