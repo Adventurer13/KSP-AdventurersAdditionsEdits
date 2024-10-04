@@ -32,7 +32,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 ### [Kerbal Engineer Redux](https://github.com/jrbudda/KerbalEngineer)
 - Switches the category for its parts to "**Command and Control**" from "Science".
 
-### [Kerbal Inventory System](https://github.com/ihsoft/KIS)
+### [Kerbal Inventory System (aka KIS)](https://github.com/ihsoft/KIS)
 - Switches the `mediumCargoContainer` to use [Restock](https://github.com/PorktoberRevolution/ReStocked)'s model and its variants.
 - Adds a VAB Organizer configuration—including a **Tools** subcategory for its and stock KSP parts and switching the category for its parts to better fit with KSP's organization.
 
@@ -54,6 +54,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 
 ### [Konstruction (includes Akita and Konstruction)](https://github.com/UmbraSpaceIndustries/Konstruction)
 - Modifies `bulkheadProfiles` of a few parts in *Akita* and *Konstruction* to a better size.
+- Adds a couple parts in *Akita* to default categories.
 
 ### [Modular Computer Package Revived (aka ChromaWorks)](https://github.com/linuxgurugamer/ChromaWorks)
 - Switches the category for a few parts to a different category based on its purpose.
@@ -90,13 +91,15 @@ While I was working on additional patches through [my fork](https://github.com/A
 
 ### [Umbra Space Industries (USI) Core (includes Kontainers and ReactorPack)](https://github.com/UmbraSpaceIndustries/USI_Core)
 - Adds and modifies `bulkheadProfiles` of some of its parts to a better size. Optional alternatives for spherical tanks.
+- Adds surface attach capability to a couple parts in *Kontainers*.
+- Adds most Kontainers to default categories, so it is easier to remember they exist.
 
 ### [USI Exploration Pack (includes ExpPack, SrvPack, and SubPack)](https://github.com/UmbraSpaceIndustries/ExplorationPack)
 - Fixes the *Safety Light* model directory, so it appears in the VAB/SPH.
 - Modifies `bulkheadProfiles` of some parts in *ExpPack/PackRat* and *SubPack* to better sizes.
 - Adds surface attach capability to more parts in *ExpPack/PackRat*.
 - Switches the category for the *Storage Box* in *SrvPack* to "**Cargo**" from "Utility".
-- Switches the category for *ExpPack/PackRat* parts to various appropriate categories than only "Utility". If using [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit), remove them from default categories altogether and uses "**Rovers**" category instead similar to other USI-mods added rover (Akita and Karibou) parts.
+- Switches the category for *ExpPack/PackRat* parts to various appropriate categories than only "Utility". If using [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit), remove most from default categories altogether and uses "**Rovers**" category instead similar to other USI-mods added rover (Akita and Karibou) parts. A few will be found in both.
 - Adds a VAB Organizer **Bouyancy** subcategory and renames **Parachutes** to **Airbags & Parachutes**. A few parts within *SrvPack* and *SubPack* are assigned where appropriate to these subcategories.
 
 ### [USI Freight Transport Technologies (FTT)](https://github.com/UmbraSpaceIndustries/FTT)
@@ -106,6 +109,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 ### [USI Kolonization Systems (includes Karibou, MKS, and WOLF)](https://github.com/UmbraSpaceIndustries/MKS)
 - Modifies `bulkheadProfiles` of some *Karibou*, *MKS*, and *WOLF* parts to a better size.
 - Adds the *'Ranger' Battery Pack* and *'Ranger' Thermal Control System* to USI's "**Kolonization**" category.
+- Adds a few *Karibou* parts to default categories.
 
 ### [USI Life Support](https://github.com/UmbraSpaceIndustries/USI-LS)
 - Modifies `bulkheadProfiles` of a few parts to a more appropriate size.
