@@ -100,7 +100,7 @@ While I was working on additional patches through [my fork](https://github.com/A
 - Adds surface attach capability to more parts in *ExpPack/PackRat*.
 - Switches the category for the *Storage Box* in *SrvPack* to "**Cargo**" from "Utility".
 - Switches the category for *ExpPack/PackRat* parts to various appropriate categories than only "Utility". If using [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit), remove most from default categories altogether and uses "**Rovers**" category instead similar to other USI-mods added rover (Akita and Karibou) parts. A few will be found in both.
-- Adds a VAB Organizer **Bouyancy** subcategory and renames **Parachutes** to **Airbags & Parachutes**. A few parts within *SrvPack* and *SubPack* are assigned where appropriate to these subcategories.
+- Adds a VAB Organizer **Buoyancy** subcategory and renames **Parachutes** to **Airbags & Parachutes**. A few parts within *SrvPack* and *SubPack* are assigned where appropriate to these subcategories.
 
 ### [USI Freight Transport Technologies (FTT)](https://github.com/UmbraSpaceIndustries/FTT)
 - Modifies `bulkheadProfiles` of a few parts to a more appropriate size.
